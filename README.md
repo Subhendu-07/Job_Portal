@@ -44,7 +44,7 @@ The project ensures a smooth and secure recruitment workflow with modern technol
 ---
 
 ## 🌐 Live Demo 
-🔗 **Render:** [Live Link](https://job-portal-1-3hyg.onrender.com)
+🔗 **Vercel:** [Live Link](https://subhendu-job-portal.vercel.app/)
 
 ---
 
